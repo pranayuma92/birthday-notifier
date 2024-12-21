@@ -16,3 +16,11 @@ OR
 ```bash
 $ npm start
 ```
+## Endpoint
+- <code>POST /api/user</code>
+Payload
+<code>
+  {
+  
+  }
+</code>
