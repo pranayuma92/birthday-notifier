@@ -20,8 +20,13 @@ $ npm start
 - <code>POST /api/user</code>
 
 Payload
-<code>
+<pre>
 {
-  
+  "firstName: "john",
+  "lastName": "doe",
+  "email": "john.doe@user.com",
+  "birthday": "1990-12-12"
 }
-</code>
+</pre>
+
+- <code>DELETE /api/user/{id}</code>
